@@ -4,3 +4,4 @@ you seems ... ...
 # 20240215: make the decision
 ** CS
 ** Whiskey
+** plan to CS
