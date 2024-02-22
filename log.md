@@ -7,3 +7,4 @@ you seems ... ...
 ** plan to CS
 ** cancel trip
 ** keep happy with x
+** 10days play
