@@ -13,3 +13,4 @@ you seems ... ...
 ** go zhanjiang
 ** new medicine
 ** test blood pressure
+** start rain
