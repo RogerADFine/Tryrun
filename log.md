@@ -59,3 +59,4 @@ you seems ... ...
 # 20240504: startdvs
 # 20240505: noteasykeepstraght
 # how to continue
+# wow, eigen
