@@ -69,3 +69,4 @@ you seems ... ...
 # blast!4!done
 # puffer
 # continue
+# 1ETH needed
