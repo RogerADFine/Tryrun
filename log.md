@@ -76,3 +76,4 @@ you seems ... ...
 # lookingforward
 # bangkok, cs
 # taxforcrypto
+# 2ndzksyncaccountisnotgood
